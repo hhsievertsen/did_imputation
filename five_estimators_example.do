@@ -10,6 +10,9 @@
 		- did_multiplegt (de Chaisemartin and D'Haultfoeuille 2020): available on SSC
 		- eventstudyinteract (San and Abraham 2020): available on SSC
 		- csdid (Callaway and Sant'Anna 2020): available on SSC
+		- drdid: available on SSC
+		- event_plot: available on SSC
+		- avar: available on SSC
 
 */
 
